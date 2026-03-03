@@ -36,7 +36,7 @@ Intuition suggests rows and columns should be equally likely.
 
 This simulation tests that assumption empirically.
 
-By running thousands of randomized trials, we approximate the underlying probability distribution and examine whether symmetry holds in competitive first-to-win settings.
+By running thousands of randomized trials, the program approximates the underlying probability distribution and examine whether symmetry holds in competitive first-to-win settings.
 
 ---
 
